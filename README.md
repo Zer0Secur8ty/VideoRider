@@ -16,7 +16,8 @@
 1. Install Python (if not installed): [Download Python](https://www.python.org/downloads/)  
 2. Install required dependencies:
    ```sh
-   pip install yt-dlp pyfiglet
+   pip install yt-dlp pyfiglet colorama
+   
    ```
 3. **Run the script**:
    ```sh
