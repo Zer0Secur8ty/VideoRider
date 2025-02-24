@@ -22,7 +22,7 @@
    ```
 3. **Run the script**:
    ```sh
-   python youdownload.py
+   python video_rider.py
    ```
 
 ---
