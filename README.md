@@ -1,3 +1,4 @@
+![VideoRider](video_rider.png)
  **📌 Video Rider v1**
 *A Python script to download videos and audio from various websites with quality selection and file size preview.*
 
@@ -38,4 +39,4 @@
 6. Confirm (`y/n`) to **start downloading**.  
 
 
-![VideoRider](video_rider.png)
+
