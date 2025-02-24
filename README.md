@@ -36,3 +36,6 @@
 4. If selecting **video**, pick the desired **quality**.  
 5. Preview the file **size before download**.  
 6. Confirm (`y/n`) to **start downloading**.  
+
+
+![VideoRider](Video_Rider.png)
