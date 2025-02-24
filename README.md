@@ -38,4 +38,4 @@
 6. Confirm (`y/n`) to **start downloading**.  
 
 
-![VideoRider](Video_Rider.png)
+![VideoRider](video_rider.png)
