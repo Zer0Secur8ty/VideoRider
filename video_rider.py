@@ -1,5 +1,13 @@
 import yt_dlp
 import os
+import pyfiglet
+from colorama import Fore, Style
+
+def print_banner():
+    banner = pyfiglet.figlet_format("Video Rider", font="slant")  
+    print(Fore.YELLOW + Style.BRIGHT + banner + Style.RESET_ALL)
+
+print_banner()
 
 def get_video_info(url):
     """ Retrieve video information and available formats """
