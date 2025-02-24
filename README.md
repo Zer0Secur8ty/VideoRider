@@ -30,7 +30,7 @@
 ## 📥 Usage
 1. Run the script:
    ```sh
-   python youdownload.py
+   python video_rider.py
    ```
 2. Enter the **video URL**.  
 3. Choose between **video or audio (MP3)**.  
