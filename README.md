@@ -1,5 +1,4 @@
-![VideoRider](video_rider.png)
- **📌 Video Rider v1**
+**📌 Video Rider v1**
 *A Python script to download videos and audio from various websites with quality selection and file size preview.*
 
 ---
